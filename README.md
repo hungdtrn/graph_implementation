@@ -7,9 +7,9 @@ This is the implementation of different research papers on Graph Neural Networks
 
 ## Spatio-temporal graphs
 
-- Structural RNN 
-- ST-GCN
-- Neural Relational Inference
+- Structural RNN - Implementing
+- ST-GCN - to be implement
+- Neural Relational Inference - to be implement
 
 ## Installation
 
